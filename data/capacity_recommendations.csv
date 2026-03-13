@@ -1,0 +1,4 @@
+region,forecast_demand,current_capacity,required_capacity,action,current_cost_per_hr,optimal_cost_per_hr
+europe-west,102.65,160,118.05,Maintain,72.0,53.12
+india-south,141.03,180,162.19,Maintain,81.0,72.98
+us-east,83.41,200,95.92,Maintain,90.0,43.16
